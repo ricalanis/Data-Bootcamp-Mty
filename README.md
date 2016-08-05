@@ -1,7 +1,7 @@
 # Python Starters Kit
 
 <img style="display: block; margin: 0 5px;" src="http://www.ohmz.net/wp-content/uploads/2011/08/its-dangerous-to-go-alone-take-this.jpg" height="250px">
-> 1 clase, 6 horas, 6 temas
+> Get your first sword on a lifelong journey
 
 ---
 
